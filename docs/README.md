@@ -1,4 +1,4 @@
-# Sales Performance Dashboard (Tableau + SQL + Excel)
+# Sales Performance Dashboard (Tableau + SQL + Excel) -( https://sales-dashboard-for-me.streamlit.app/)
 
 ## Overview
 This project is an end-to-end analytics solution designed to help leadership track revenue, regional sales, product performance, and inventory alignment. It utilizes SQL for data processing, Python for synthetic data generation, and Tableau for visualization.
