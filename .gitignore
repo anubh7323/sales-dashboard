@@ -5,7 +5,7 @@ __pycache__/
 
 # Data
 data/*.csv
-*.db
+# *.db (Included for demo deployment)
 
 # Environment
 .env
